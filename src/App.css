@@ -282,7 +282,7 @@ textarea:focus {
   background-color: #9E9A75;
   height: 300px;
   width: 300px;
-
+  text-align: center;
   margin-top: -100px
   
 }
